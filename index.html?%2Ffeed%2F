@@ -1,0 +1,567 @@
+<?xml version="1.0" encoding="utf-8"?>
+  <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+
+  <title>Kuboaa's Portfolio Feed</title>
+  <subtitle>Gräphic Designer</subtitle>
+  <link href="http://kuboaa.herokuapp.com/?/feed/" hreflang="en" rel="self" type="application/atom+xml"/>
+  <link href="http://kuboaa.herokuapp.com/" hreflang="en" rel="alternate" type="text/html"/>
+  
+  <updated>2014-04-09T08:33:32+10:00</updated>
+  <generator uri="http://staceyapp.com/" version="2.2.2">Stacey</generator>
+
+  <author>
+    <name>Kuboaa</name>
+    <uri>http://kuboaa.herokuapp.com</uri>
+  </author>
+
+  <id>tag:kuboaa.herokuapp.com,2018:/?/feed/</id>
+  <rights>©2018 Kuboaa</rights>
+    <entry>
+   <title>Issue 3</title>
+   <id>tag:kuboaa.herokuapp.com,2018:/?/issue-3/</id>
+   <updated>2014-04-09T08:33:32+10:00</updated>
+   <link rel="alternate" type="text/html" href="http://kuboaa.herokuapp.com/?/issue-3/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>The shop..</title>
+   <id>tag:kuboaa.herokuapp.com,2018:/?/pea/</id>
+   <updated>2014-04-09T08:33:32+10:00</updated>
+   <link rel="alternate" type="text/html" href="http://kuboaa.herokuapp.com/?/pea/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>Issue 2</title>
+   <id>tag:kuboaa.herokuapp.com,2018:/?/issue-2/</id>
+   <updated>2014-04-09T08:33:32+10:00</updated>
+   <link rel="alternate" type="text/html" href="http://kuboaa.herokuapp.com/?/issue-2/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title></title>
+   <id>tag:kuboaa.herokuapp.com,2018:/?/launch-party/</id>
+   <updated>2014-04-09T08:33:32+10:00</updated>
+   <link rel="alternate" type="text/html" href="http://kuboaa.herokuapp.com/?/launch-party/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+            <img src="./content/6.launch-party/z.jpeg" alt="Z." />
+  <img src="./content/6.launch-party/launchpartypic5.jpeg" alt="Launchpartypic5." />
+  <img src="./content/6.launch-party/launchpartypic4.jpeg" alt="Launchpartypic4." />
+  <img src="./content/6.launch-party/launchpartypic3.jpeg" alt="Launchpartypic3." />
+  <img src="./content/6.launch-party/launchpartypic2.jpeg" alt="Launchpartypic2." />
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>Issue 1</title>
+   <id>tag:kuboaa.herokuapp.com,2018:/?/issue-1/</id>
+   <updated>2014-04-09T08:33:32+10:00</updated>
+   <link rel="alternate" type="text/html" href="http://kuboaa.herokuapp.com/?/issue-1/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+            <img src="./content/5.issue-1/1.jpg" alt="1." />
+  <img src="./content/5.issue-1/0.jpg" alt="0." />
+
+          
+      </div>
+   </content>
+</entry>
+    <entry>
+   <title>When beginning to write...</title>
+   <id>tag:kuboaa.herokuapp.com,2018:/?/issue-1/editorial/</id>
+   <updated>2014-04-09T08:33:31+10:00</updated>
+   <link rel="alternate" type="text/html" href="http://kuboaa.herokuapp.com/?/issue-1/editorial/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+            <p><cite>Why must we worry over so simple a thing as preface making?
+                    - Cfr Gayatri Chakravorty Spivak</cite></p>
+
+<p>When beginning to write my first editorial at the tender age of twenty-three I soon began to discover that there were plenty of things I could find to worry about. After all, it was in the forefront space of this publication that I initially intended to clarify the purpose of kuboaa, outline what it hopes to achieve and suggest ways in which it is different from any other independent publication.</p>
+
+<p>In outlining my reasons for starting kuboaa I was primarily concerned with being as simple and direct with the reader as possible. In order to attain clarity I decided to avoid the sort of art magazine terminology I had come across during my reading, words like transdisciplinary and more ironically, truthfulness. There is a danger in misusing such terms and I deemed them too abstract to appear in a preface concerned with notions of clarity.</p>
+
+<p>Despite my intentions however, I continually drew upon vague, smart sounding words for an editorial that I felt at the time was essentially responsible for umbrella-ing a group of until-now, (directly) unrelated works. Submitted by people that had in some cases never even met, fuzzy and important sounding terminology would seemingly assure that no one was left out and perhaps even give the illusion that I knew what I was talking about (right?) but it would also prove unsatisfying to (mis)use.</p>
+
+<p>Relying directly upon my research, I continued to shuffle around the words of other artists and thinkers so that they somehow represented my own, resembling a sort of kuboaa shaped mould. It was this dependence, matched by an inconsistent desire for unconditional sincerity that soon began to fill me with an encroaching sense of doubt.</p>
+
+<p>Perhaps this whole notion of sincerity was pointless all along, and was the very thing preventing me from defining my intentions unhindered. Or perhaps I was concerned that in clearly outlining my own intentions I would also be sticking my neck out somewhat and as a result, could risk appearing unlearned. (I needn’t remind you that worrying about ones appearance is neither healthy nor productive.)</p>
+
+<p>Finally, after a number of unsuccessful re-writes and a somewhat ludicrous amount of time, I have moved aside my books and returned to the simplistic impulse from which kuboaa originates; 
+That of a desire to bring closer together a myriad mix of projects, ideas and proposals, and in turn, my friends and peers responsible for them. It is in this meeting space, that kuboaa moves snake-like between various modes of thought and action, appearing transparent and opaque, serious and stupid, informative and positively misleading…</p>
+
+<p>…As you can see, kuboaa is essentially an open structure for readers and contributors alike to find out what it is for and how to use it. Without wishing to simply reflect a desire to reassemble these things from all over the place however, kuboaa takes a particular interest in the space where these things meet as it is these edges and subtle overlaps that allow us to reveal new analogies, exploring alternative lines of communication.</p>
+
+<p>And so in the true spirit of kuboaa, I submit this text not as an editorial, or a preamble to anything but instead take comfort in the knowledge that right now, whilst in it’s first issue, kuboaa is not sure of what it is doing or why it is doing it, and perhaps at times happens simply because I have no precise desire of my own (other than to experiment with other people’s).</p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>Pea</title>
+   <id>tag:kuboaa.herokuapp.com,2018:/?/issue-1/pea/</id>
+   <updated>2014-04-09T08:33:32+10:00</updated>
+   <link rel="alternate" type="text/html" href="http://kuboaa.herokuapp.com/?/issue-1/pea/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+            <p>I leave my flat. I’m sure I always sleep well but I usually wake up with an ache in my lower back. The key to a good nights sleep is a good mattress. Some of the best nights sleep I have ever had have been on the floor. Outside is grey and I admire how the lines that describe the buildings in the distance have dissolved leaving only floating squares and rectangles. Dodging wet manholes on my bike I am interrupted by a faint yet rampant and reliable bleeping that comes louder and louder. I like to eat my beans first, leaving the egg and some toast till last, these are my favourite bits. Today however I ate them together as one.</p>
+
+<p>After finding a place for to park I ask the first person I see if she knows if this road goes to Victoria Park. Then I stand still looking as if I were waiting to cross the road before bouncing into the news agents behind me. On this small stretch there are several shops of similar description, some sell beer some do not some sell Double Deckers some do not. I only make eye contact with the shop keep, greet him then begin to peruse. This store has beer. I may, if I choose, buy one and drink. I may, if I choose, buy one and leave it on the street.</p>
+
+<p>I had almost carpeted the sock pot at gathered past peas. A wall gagging trumpet almost got last crab on the shiny melon half. Wait, pencil larger than silly yards waters will cellophane drama. Blithering post cone box now pill over cough and duffle, beat grainy ostracise to shingle. Dodging wet manhole covers on my bike I remember the bleeping. Numb finger on my right hand and a faint yet rampant and reliable bleeping comes louder and louder.</p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>Porn in outer space (video)</title>
+   <id>tag:kuboaa.herokuapp.com,2018:/?/issue-1/porn-in-outer-space-video/</id>
+   <updated>2014-04-09T08:33:32+10:00</updated>
+   <link rel="alternate" type="text/html" href="http://kuboaa.herokuapp.com/?/issue-1/porn-in-outer-space-video/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+            <div><object width="600" height="450"><param value="true" name="allowfullscreen"><param value="always" name="allowscriptaccess"><param value="http://vimeo.com/moogaloop.swf?clip_id=13660761&#38;amp;server=vimeo.com&#38;amp;show_title=1&#38;amp;show_byline=1&#38;amp;show_portrait=1&#38;amp;color=&#38;amp;fullscreen=1&#38;amp;autoplay=0&#38;amp;loop=0" name="movie"><embed width="600" height="450" allowscriptaccess="always" allowfullscreen="true" type="application/x-shockwave-flash" src="http://vimeo.com/moogaloop.swf?clip_id=13660761&#38;amp;server=vimeo.com&#38;amp;show_title=1&#38;amp;show_byline=1&#38;amp;show_portrait=1&#38;amp;color=&#38;amp;fullscreen=1&#38;amp;autoplay=0&#38;amp;loop=0"></object><p><a href="http://vimeo.com/13660761">Outer Space</a> from <a href="http://vimeo.com/user3522700">thrills thrills</a> on <a href="http://vimeo.com/">Vimeo</a>.</p></div>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>Porn in outer space</title>
+   <id>tag:kuboaa.herokuapp.com,2018:/?/issue-1/porn-in-outer-space/</id>
+   <updated>2014-04-09T08:33:32+10:00</updated>
+   <link rel="alternate" type="text/html" href="http://kuboaa.herokuapp.com/?/issue-1/porn-in-outer-space/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+            <p>In summer 2009 whilst making a film about the architecture and psychology of
+airports I made enquiries as to how I could go about gaining legal permission to
+film in Heathrow International Airport. I had no interest in filming passengers
+or workers simply its empty walkways, halls and concourses. This, I was told,
+should be fine as long as I had a public life insurance deposit of £10,000,000.
+Looking to the smaller airports I found that Gatwick, Stanstead, Luton and City
+Airport did not even offer such a tariff, with the banning of all recording media in
+terminal buildings outright.</p>
+
+<p>Similar obstacles, in the wake of 7/7, present themselves for the amateur
+filmmaker in most large commercial shopping centers and railway stations
+across Britain.</p>
+
+<p>Put most simply the zones and spaces in which we are spending, and are
+encouraged to spend increasingly more amounts of our time, remain perpetually
+out of reach to us. They exist within a context of repression and denial. And so
+they become unreliable memories, which we are unable to measure against
+a reference of reality as any visual reproduction of them is banned. Our
+visualization of them remains fleeting, peripheral and always retrospective.</p>
+
+<p>Or highly regulated. On the 27th of October 2010 the advertising company
+Saatchi and Saatchi, in patronage to T-Mobile, capitalized upon the success of
+their previous ‘flash mob’ television adverts in Trafalgar Square and Liverpool
+Street Station by filming a new staged event in Heathrow Terminal Five in
+which bemused and delighted passengers were greeted in the arrivals arena
+by a crowd of over 500 paid and choreographed actors disguised as airport
+baggage handlers, stewards and security staff. All singing and performing songs
+centered around the theme of travel such as Iggy Pop’s ‘the Passenger’ and Mark
+Morrison’s ‘Return of the Mack’. The event was captured through sixteen hidden
+cameras and was the result of extensive collusion and communication with the
+BAA control tower. Most gloriously of all however the ban on recording media
+within the terminal building was temporarily lifted as T-Mobile made the most of
+the sight of the public all filming and documenting the event on their own mobile
+phones.</p>
+
+<p>For the sake of achieving this illusion of relaxed spontaneity,
+seemingly ‘accidental’ spectacle and free public documentation T-Mobile spent
+well over £100,000 on budget and several weeks extensively planning and
+mapping the movements of their actors throughout the building. A gamble that
+seems to have been worth it though as a quick trawl through the You Tube
+comment boards proves quite how successful the advert has been:</p>
+
+<p><center></p>
+
+<iframe width="590" height="300" frameborder="0" allowfullscreen="" src="http://www.youtube.com/embed/NB3NPNM4xgo" title="YouTube video player"></iframe>
+
+<p></center></p>
+
+<p>Clearly there is a tangible desire within the public to impose upon such spaces a
+sense of both personality and surrealism to make sense of somewhere that has
+become entirely internalized and denied to them in age in which everyone films
+everything.</p>
+
+<p>Outside of such commercial instances the free documentation of airports,
+shopping centers and stations tends to exist only on the margins: in the
+background of fuzzy YouTube clips made by planespotters or children mucking
+about with a new phone on holiday and then uploaded out of boredom.</p>
+
+<p>For the interested filmmaker however Xtube remains the most useful and
+extensive source. In the backgrounds of its burgeoning array of acts of public
+sexuality in stations, airports and shopping centers one finds an invaluably
+extensive record of the unregulated depiction of public non-places.</p>
+
+<p>Porn in Outer Space uses these images to explore and document locations that in
+non-virtual terms have become almost entirely un-recordable.</p>
+
+<p>Captured on cheap (T?) mobile phone footage it explores the defecation and
+transfiguration of hyper ‘clean’ spaces such as Terminal 5 through abjection
+and uncontained sexuality. And the desperate desire to impose permanence
+and individuality on a transient topography caught halfway between dream and
+reality.</p>
+
+<hr />
+
+<p><cite>Matthew Reed has a blog at <a href="http://9london9.blogspot.com">9london9.blogspot.com</a></cite></div></p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>Faux Amis</title>
+   <id>tag:kuboaa.herokuapp.com,2018:/?/issue-1/faux-amis/</id>
+   <updated>2014-04-09T08:33:32+10:00</updated>
+   <link rel="alternate" type="text/html" href="http://kuboaa.herokuapp.com/?/issue-1/faux-amis/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+            <p>Alastair had, by now, travelled some distance in an effort to walk from Fort Augustus to a point of vantage along the southern shore of Loch Ness. This rather rashly plotted excursion was made in the hope of viewing his parents house, a small white cottage that sat on the eastern bank, nested in the village of Foyers situated along General Wade’s Military road.</p>
+
+<p>Looking deep into the abyss of dense forestry across the water, his eyes lingered over a white building that shone in the landscape and following the path back slightly he was able to locate a perspective that detached it from the trees. The shift of parallax did something peculiar. Initially his eye caught the attractive protruding turret that encased his bedroom, though it seemed uncannily bulbous and misshapen. As his eye trailed along, he found the natural rhythm of the roofline was disrupted by extending further than expected and revealing a second turret, testifying to the oddity of the first. Invalidating the image as his cottage.</p>
+
+<p>The entirety of the building uncoiled from the trees, like a snake in the landscape, and a timorousness touched him. It was as though in the vertigo of witnessing this transfiguration, some telluric message had crawled along the path he had taken and endowed his consciousness with a microscopic inner eye that informed the distant locale, adding special colour to it.</p>
+
+<hr />
+
+<p>He knew the manor, and of its previous owner; a mysterious figure from London, who had taken zealously to affections of the traditional highland gentleman. This simple fact alone was enough to stimulate dislike in the community. However - apparently keen exacerbate this displeasure - he also took to walking along the glens at night, and would host guests who were never again seen, save for a few occasions when they were identified hurriedly leaving in the early hours. Quickly making an enemy of the locals, rumour had made its extravagant progress that this fellow was a magician, a great mystic and evil force. Tales of foul deeds quickly seeded themselves in the grounds at Boleskine.</p>
+
+<p>Even before him the house was, befittingly, an already long darkened patch of land, the particular site of the house had once been a church that had burned down during Mass, the entire congregation inside. The manor was then built upon its ashes in the late 18th century by Archibald Fraser; who now rested in the burial ground that was constructed opposite. Rumours (boundlessly imaginative as they are) also told of labyrinthine underground passageways that linked House and burial ground, as condemned man and corpse.</p>
+
+<p>Alastair's father, the local GP in Foyers, had imparted annotative remarks to this modern folklore on occasion, but with a peculiar absentmindedness, and disinterest to the real nature of the man. Young Alastair had taken these cursory tales lightly, but a detail piqued him; this mans name was a variant spelling of his own, he was Alastair, after his uncle, and the owner of the large house, the subject of a (partly self-perpetuated) myth, who pompously called himself ‘the great beast’ was Aleister.</p>
+
+<hr />
+
+<p>Without warning, as was common in the glens, a storm broke and cast the hillside dark into shadow. Lights from neighbouring houses appeared like fire flies in the landscape, and Boleskine appeared to recoil into the shadows of the clandestine trees, save for the shuddering flashes of light that exposed the manor.</p>
+
+<p>Though fifteen miles from his home on foot, around the Loch, he was a mile from it directly. He became aware of this proximity as strong winds swept haphazardly from every direction. The Loch swelled and contracted, as though the focus of an event horizon in which the glens were being pulled from all sides into its depths, as surely as the passage of time. From an unlocatable source, scrambled by the wind, Alastair heard the crunch of leaves underfoot and his mind involuntarily cast back to another tale, a polish folklore:</p>
+
+<p>"A little boy went out to play. When he opened</p>
+
+<p>his door, he saw the world. As he passed through</p>
+
+<p>the doorway, he caused a reflection. Evil was born.</p>
+
+<p>Evil was born, and followed the boy."</p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>What we have created in is black and white, What we propose for the future is in green</title>
+   <id>tag:kuboaa.herokuapp.com,2018:/?/issue-1/mestopremeny/</id>
+   <updated>2014-04-09T08:33:32+10:00</updated>
+   <link rel="alternate" type="text/html" href="http://kuboaa.herokuapp.com/?/issue-1/mestopremeny/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+            <img src="./content/5.issue-1/6.mestopremeny/156022_104980222908831_100001905611360_38330_6715935_n.jpg" alt="156022 104980222908831 100001905611360 38330 6715935 n." />
+  <img src="./content/5.issue-1/6.mestopremeny/156022_104980219575498_100001905611360_38329_3443825_n.jpg" alt="156022 104980219575498 100001905611360 38329 3443825 n." />
+  <img src="./content/5.issue-1/6.mestopremeny/62081_115539698504886_115318321860357_112877_7667861_n.jpg" alt="62081 115539698504886 115318321860357 112877 7667861 n." />
+  <img src="./content/5.issue-1/6.mestopremeny/33917_116862765039246_115318321860357_119408_3048352_n.jpg" alt="33917 116862765039246 115318321860357 119408 3048352 n." />
+  <img src="./content/5.issue-1/6.mestopremeny/DSC00454.JPG" alt="DSC00454." />
+  <img src="./content/5.issue-1/6.mestopremeny/DSC00439.JPG" alt="DSC00439." />
+  <img src="./content/5.issue-1/6.mestopremeny/DSC00480.JPG" alt="DSC00480." />
+  <img src="./content/5.issue-1/6.mestopremeny/DSC00434.JPG" alt="DSC00434." />
+  <img src="./content/5.issue-1/6.mestopremeny/DSC00502.JPG" alt="DSC00502." />
+  <img src="./content/5.issue-1/6.mestopremeny/fonchoda2.jpg" alt="Fonchoda2." />
+  <img src="./content/5.issue-1/6.mestopremeny/fonchoda1.jpg" alt="Fonchoda1." />
+  <img src="./content/5.issue-1/6.mestopremeny/DSC00408.JPG" alt="DSC00408." />
+  <img src="./content/5.issue-1/6.mestopremeny/DSC00488.JPG" alt="DSC00488." />
+  <img src="./content/5.issue-1/6.mestopremeny/DSC00481.JPG" alt="DSC00481." />
+  <img src="./content/5.issue-1/6.mestopremeny/DSC00389.JPG" alt="DSC00389." />
+  <img src="./content/5.issue-1/6.mestopremeny/DSC00287.JPG" alt="DSC00287." />
+  <img src="./content/5.issue-1/6.mestopremeny/DSC00256.JPG" alt="DSC00256." />
+  <img src="./content/5.issue-1/6.mestopremeny/DSC00146.JPG" alt="DSC00146." />
+  <img src="./content/5.issue-1/6.mestopremeny/DSC00126.JPG" alt="DSC00126." />
+  <img src="./content/5.issue-1/6.mestopremeny/DSC00303.JPG" alt="DSC00303." />
+  <img src="./content/5.issue-1/6.mestopremeny/DSC00322~.JPG" alt="DSC00322~." />
+  <img src="./content/5.issue-1/6.mestopremeny/DSC00391~.JPG" alt="DSC00391~." />
+  <img src="./content/5.issue-1/6.mestopremeny/DSC00388.JPG" alt="DSC00388." />
+  <img src="./content/5.issue-1/6.mestopremeny/DSC00343.JPG" alt="DSC00343." />
+  <img src="./content/5.issue-1/6.mestopremeny/DSC00405.JPG" alt="DSC00405." />
+
+          
+            <p><a href="http://kuboaa.org.uk/kuboaa/public/pdf/mesto.pdf">Click here to download Mestopremeny article (PDF)</a></p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>An interview with David Graeber</title>
+   <id>tag:kuboaa.herokuapp.com,2018:/?/issue-1/interview-david-graeber/</id>
+   <updated>2014-04-09T08:33:31+10:00</updated>
+   <link rel="alternate" type="text/html" href="http://kuboaa.herokuapp.com/?/issue-1/interview-david-graeber/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+            <p><cite>Cutting friends' hair in the kitchen or living room is an experience shared by many. Outside of this domestic exchange we see the sociality of the barbershop, with its sometimes chaotic and lively environments, as providing a public space for different kinds of economies and relationships to happen. Often situated within a locality of different groups of people, it is an interesting space to explore notions of community and commonality; a politics of difference.<br />Referencing the 17th/18th century salons where French philosophers would build knowledge through conversation, our salon looks to provide a material base of exchange, to work alongside internet based discussion and oriented towards an economy of care amongst participants. As the basis of exchange is aid rather than money the relationships are geared more towards friendship, requiring trust and degrees of intimacy, rather than financial gain.<br />In ancient Greece the Agora was both marketplace, and forum of public assembly and debate. Reconceptualising the barbershop reintroduces this culture of assembly and debate to the contemporary high street, with the intention of developing notions of post-capitalist economies and structures of mutual support.<br />In this interview, David Graeber outlines communism as it exists today, as the foundation of all sociability, and also how the fundamentals of communism exists within capitalism, especially in relation to creativity.</cite></p>
+
+<p><small>Have a look at <a href="thehaircutbeforetheparty.net">thehaircutbeforetheparty.net</a> for more...</small></p>
+
+<p><strong>DG</strong> Where does that phrase come from anyway- self confessed anarchist? Self-proclaimed, self-appointed? It's like in the newspaper you can just be an anarchist, it's like he even admits he's an anarchist.</p>
+
+<p><strong>RH</strong>  Ok lets ease back (Lowers DG's chair down to sink level)</p>
+
+<p><strong>LB</strong>  When was the last time you had a haircut David?</p>
+
+<p><strong>DG</strong> That was in New York, maybe a month and a half ago, maybe 2 months.</p>
+
+<p><strong>LB</strong>  You said it was too short?</p>
+
+<p><strong>DG</strong> Yeah, the guy wasn't my usual barber, it was my usual barbershop but there was another guy there and he did it too short and not very well I think.</p>
+
+<p><strong>LB</strong>  Keep your head back</p>
+
+<p><strong>RH</strong>  Hows that water?</p>
+
+<p><strong>DG</strong> Yeah its fine, as long as its not shockingly hot or shockingly cold, no it's kind of pleasant even.</p>
+
+<p>…</p>
+
+<p>The way I always like to think of it is that most people don't think anarchism is a bad idea, they think its insane. They think it would be lovely to have a society based on mutual aid with no police or prisons and the system would never really happen, and of course its never because anybody thinks they'd not be able to handle it, but they think that everyone else wouldn't be able to handle it.</p>
+
+<p>I come from a lefty background, my father fought in Spain. He actually lived in Barcelona during the revolution there, so he always swore anarchism as a legitimate political philosophy. The International Brigades were against the anarchists of course, he was kind of the balanced view, but the major thing was that he didn't think it was crazy. Yes people can organise things collectively and democratically I've seen it happen. So when you aren't brought up to think of it as crazy it's almost hard not to be an anarchist.</p>
+
+<p>So I always thought of myself as an anarchist, philosophically for much of my life, but in terms of actual social movements, well two things happened: One that I became an anthropologist and went to Madagascar and just by coincidence I kind of stumbled into a place where the state had ceased to function, or really exist, the police for example wouldn't go off the paved road. But the amazing thing was it took me about 6 months to even figure out that was going on because no one really wanted to talk about it and pretend the government was still really there. And so one thing I realised is that state authority doesn't do as much as we think it does, that people could continue with their daily existence as they had without that. So at any rate I had stumbled into a kind of anarchist enclave. I got back and was teaching at Yale and suddenly I discovered that the social movement I'd always wished to exist.</p>
+
+<p>I had occasionally tried to get involved in anarchist politics in the 80's but wasn't that inspired by what I'd found, it was mostly what I sometimes call the Bob Black period- people who are sectarian parties of one shouting at each other and it wasn't a lot of fun so I never got involved, but suddenly the movement I really wished to have existed did- the counter-globalisation movement- so I just sort of jumped in.</p>
+
+<p><strong>LB</strong>  Maybe that's somewhere we can start, we've put you in this massive anarchist flag because you are so comfortable identifying as an anarchist, but why is it do you think there is a general discomfort with the language of anarchism or anarchist flags, even amongst anarchists or people who we would say practice anarchism?</p>
+
+<p><strong>DG</strong> Thats a funny thing, I mean I myself am a bit ambivalent, if were a community organiser it certainly wouldn't be the aspect of myself I would necessarily advertise. I work in universities, it's almost a form of intellectual honestly, you know, this is where my ideas are coming from, if I pretended otherwise I would just feel like a fraud. And also theres a combination of being true to ones ancestors and acknowledging them, but also annoying the right sort of people. So for my particular situation it seemed like using the word was useful. But whether it was wise thing to do sometimes I wonder. I never quite draped myself in the red and black flag in that way, I like to think of myself as a small-a anarchist actually- yes i'm an anarchist and if you ask me what I am I'll say that- but I prefer to work in groups that don't have capital-A anarchist in the name, I like groups that work like anarchists, organise under anarchist principles, embody anarchist ideals but are open to anyone who's willing to act that way, whatever they choose to call themselves.</p>
+
+<p><strong>LB</strong>  You often strike a difference in your work between anarchism and more marxist ideas- marxism is very much an intellectual theory and an identity through the theory, whereas anarchism doesn't even need to be called anarchism and it can just be a practice.</p>
+
+<p><strong>DG</strong> Yes exactly, so theres some people who are such anarchists that they wont call themselves Anarchists for that reason. Sometimes I wonder in embracing the title, if I have a vice it sometimes that, someone once called me anti-sectarian sectarian, I'm so anti-sectarian I pick unnecessary fights with sectarians over the issue. For me its an example of being the same thing. But I do think that what anarchism means to me above all is thinking about how we live and practice.</p>
+
+<p><strong>LB</strong>  But does that mean that anarchism is only a practice, it's never a reached point, there is no kind of anarchist utopia that we're working towards, it's just purely a methodology?</p>
+
+<p><strong>DG</strong> No i think its more asintotic*, you know, I mean you're never going to get to perfection of anything, but I do think we are already living in anarchism to some degree whenever we treat each other the way people should really be treated, whenever we make a decision democratically, whenever we operate according to the principles of mutual aid, we are performing anarchism, when you do direct action. Most people, even though they would never use the word, would act like anarchist maybe 40-70 per cent of the time. So we're already living in anarchism to a certain degree, the question is what do we do with the rest of the 60-30 per cent.</p>
+
+<p><strong>RH</strong>  We're just going to turn you back round now and I'll just finish drying your hair.</p>
+
+<p><strong>DG</strong> Yeh, so probably if we can get it down to one per cent (laughs) we might not be able to get it beyond that but 99 per cent is good enough for me.</p>
+
+<p><strong>RH</strong>  How does that feel (Towel drying hair)?</p>
+
+<p><strong>DG</strong> O, feels good.</p>
+
+<p><strong>LB</strong>  Maybe we should talk about the hair cut?</p>
+
+<p><strong>DG</strong> O yes, I don't know, what pops into your head when you see my hair?</p>
+
+<p><strong>LB</strong>  What did pop into my head originally was a Mohawk…</p>
+
+<p><strong>DG</strong> Noooo...</p>
+
+<p><strong>LB</strong>  …but you've just ruled that out. We often do a lot of squat haircuts, with shaved bits and rat-tails…</p>
+
+<p><strong>DG</strong> (unconvinced) nnyyeaah I'm radical in a lot of things…</p>
+
+<p><strong>LB</strong>  But not in hair- thats ok.</p>
+
+<p>So, anarchism, you were just saying is something that 30 per cent of people live..</p>
+
+<p><strong>DG</strong> No no, everybody lives 30- 70 per cent of the time- I just made those numbers up but I wouldn't be at all surprised.</p>
+
+<p><strong>LB</strong>  Because you say a similar thing about communism, can you define what you mean by communism?</p>
+
+<p><strong>DG</strong> O, well I sort of take the classic definition of communism as being from each according to their abilities to each according to their needs. So anything that you do, or any social relation you have, which is organised on that principle- well it's a communist relationship. So for example, we're all communist with our best friends, because if they really need something then we provide it, and we do it on the basis of what we can do. But to some degree, if you have real amicable social relations with anyone that has to be true to some kind of minimal extent, anyone who isn't some complete enemy or alien creature to you, I mean, you could think of society as being defined as those people where at least, on that level, even humanity to some degree, if the need is great enough, or the demand is small enough then everyone acts like a communist. I mean if someone is drowning, or if someone needs a light. So you know in a way, communism is the baseline of all sociability. All other social relations are built on top of communism.</p>
+
+<p><strong>LB</strong>  And by that you mean, if you came up to me in the street and said I need a lighter, I wouldn't say 'five pounds please'…</p>
+
+<p><strong>DG</strong> Exactly. So there's a sort of minimal sort of baseline communism, I call it, that anybody that isn't completely hostile or alien to one another would have. And you know in different societies it extends to different degrees, so that it's pretty much impossible to refuse a request for food, no matter what it is really, just cant do it. There's this great Maori story I always like to quote about this annoying guy, I think name Taringa, who used to hang around the shore when people came back from fishing and say, 'Wow octopus! I love octopus', you know, then they have to give it to him, and he never stopped, never really did much fishing himself, would always be there. So after about 5 years people got so sick of him, that they formed a little war party, ambushed him and killed him...</p>
+
+<p>(laughs)</p>
+
+<p>...you know its actually easier just to kill the guy than to say, 'no Im not going to give you the octopus'.</p>
+
+<p><strong>LB</strong>  I often pick up a really strong prefigurative politics in your ideas, in your work and theory. But that to me, like, if we're already living communism now, then how do we make that a greater thing in our lives? It doesn't so much imply a methodology or a strategy. So whereas Marxism would say, we have this clear analysis, we have to use these means to get to this place, you're starting from this place, do you understand?</p>
+
+<p><strong>DG</strong> Yes, well ok, I've been thinking about this recently and I've also made the argument that capitalism is simply a bad way of organising communism. Most corporations operate by that principle internally. But the thing is that the type of communism that exists within most institutions today is a really bad form of communism. Just because something is communistic doesn't mean its necessarily good, so you have extraordinary hierarchical nightmare forms of communist co-operation, and then you have much more egalitarian ones, so the question in a way is how do we reform existing forms of communism from within? Make them more anarchistic for example. And one thing that had occurred to me, I don't know if it's always true, but I think its true, is that the more creative the undertaking that you're involved with, the more the type of communism you have to apply has to be open-ended, egalitarian and open to everyone. So creativity almost demands that your form of communism becomes healthier and no matter what you yourself might be inclined to do. There's this marxist guys called Mouffe, I can't quite remember, who had a student who went off and did research on the origins of Apple computers. Apparently they're all people who had dropped out of IBM, and are all sort of weird Republican-Libertarian-pot-smoking type people. But they ended up creating these democratic circles which operated exactly like anarchist affinity groups where they sit around and make decisions by consensus and get really stoned, just like affinity groups, and they did it because they were trying to be maximumly innovative and they found that was the only thing that worked. So ironically you know, capitalists, even though they got the whole <strong>RH</strong> etoric that, you know, communists had to give up because they discovered that capitalism is the only thing that works. Within capitalism its exactly the other way around. They had to create an egalitarian form of communism at that, as opposed to the scary factory-based hierarchical forms of communism, just to be an effective and innovative corporation. 
+Now obviously thats not going to lead to revolution, but it shows that tension there. What we really have to think about is how to reform existing forms of communism from within.</p>
+
+<p><strong>LB</strong>  And to bring that into context now with the cuts, and austerity, you say that we're working too much anyway, so now everyone's out there with their pre-made socialist banners that say, 'We need all the jobs, fight for every job', should we really have different banners that say, 'We didn't want to work anyway, can we go now?'</p>
+
+<p>DB (Laughs) Yeh! Fine then, bye….</p>
+
+<p><strong>LB</strong>  Which in a sense then implies we should take up David Cameron's call for mutual aid, Big Society.</p>
+
+<p><strong>DG</strong> Well it's ironic isn't it, I think that at the moment the capitalists are sort of seesawing between two possible types of reaction to the fact that they've been exposed as complete frauds in the financial crisis. One is what I call 'kamikaze capitalist' approach. It's like, 'who cares if we create a viable form of capitalism as long as we take out the other guys'; so just full scale attack on anything that looks like it could be the source of any other idea or value, whether its universities, social welfare, anything. The other approach is what they've always done, which you see in Big Society or green capitalism, which is, 'alright, lets take whatever it is that the social movements are coming up with, because we're completely uncreative and have no ideas, but we can just take whatever they're doing and re-package it, re-structure it, and turn it into something destructive, alienating and horrible'- which they're going to try and do with mutual aid, and the question is, I mean that does give us opportunities, isn't that what neoliberalism did, as many people pointed out- 'you want individual self-expressions and experiments in new forms of pleasure and anti-bureaucracy, yeh I'll give you that, want flexibility? We'll give you flexibility' (laughs). So now they're going to do the same with another set of things to co-opt. It does give us an opportunity to take them at their word, in a way thats what the globalisation movement was about - 'all right, you want globalisation? How about real globalisation, how about no borders?'</p>
+
+<p><strong>LB</strong>  So what does real mutual aid and Big Society look like? Or radical mutual aid?</p>
+
+<p><strong>DG</strong> I think we know. I mean we do it all the time. It's recognising the forms of imminent communism as being values in themselves rather than simply being valuable to maintain the platform from which people can then extract profit.</p>
+
+<p>I mean what fascinates me, the haircut is a great example, in that just how much even the things that we do for money, most of the time, are things with involve this intense levels of interpersonal trust and communication, in which the boundaries between our very selves flow into each other. They're all embodiments of the very principles, which then this logic of exchange that we have to look at everything from, tries to make disappear again. So we're constantly living one kind of life and then for very elaborate reasons, that kind of life cant exist. It's unrealistic. It means denying the reality thats around us all the time and most of what we're doing even when we're saying it.</p>
+
+<p><strong>LB</strong>  How has this experience been, do you feel like we've bonded?</p>
+
+<p><strong>DG</strong> Yeh, I mean theres a strange combination of distance and intimacy…</p>
+
+<p><strong>LB</strong>  (applying wax) This is really horrible! (Laughs)</p>
+
+<p><strong>DG</strong> What the wax?</p>
+
+<p><strong>LB</strong>  Its like glue!</p>
+
+<p>This isn't working….</p>
+
+<p><strong>RH</strong>  I think we need another hair wash…..</p>
+
+<p><strong>LB</strong>  (sculpting) How's that?</p>
+
+<p><strong>DG</strong> O I got a Mohawk after all…</p>
+
+<p>(while having wax wiped out of his hair, David is asked about using the language of communism today as a provocation, but also as confused) 
+I think we're not a communist movement in that sense, we're a movement that recognises it's already communist and what-are-we-going-to-do-about-that-fact. And thats an argument that I think can be made, because if you make both of those statements at once, you know it's not a case of creating communism in some imaginary mythic form, you know the question is how do we manage the communism that already exists. And I think it is helpful to point out things like that and maybe that kind of a provocative use of the term is over-doing it, I don't know. But I think nothing could be more important right now then changing that language that we're used to using in describing these things, because the thing I think about neoliberalism is that, the war on the imagination is the only one that the capitalists ultimately manage to win. I mean, they didn't win the war to create a viable long-term form of capitalism, they've completely failed at most of the neoliberal projects, the only thing they've managed to succeed is in trying to convince everybody that we're impractical. Which means that they think we're a lot more potentially practical then we do probably. They're more afraid of us than we realise and maybe they know something we don't know, but maybe they're just paranoid and wrong. But that's the context in which we need to think about the use of language, what the point where its ok to uproot common sense, or is it possible to do so when you pull back on that?</p>
+
+<p><strong>LB</strong>  David I think that's your haircut finished, here's your complimentary napkin, sorry about the wax…</p>
+
+<p>DB Ah well you know, it is in the nature of experiments...</p>
+
+<p><strong>LB</strong>  You can take it home with you, play around with different shapes, but thanks for talking to us today and thanks for coming.</p>
+
+<p><strong>DG</strong> Ah well thank you.</p>
+
+<p>*a point of infinity, in mathematical terms.</p>
+
+<hr />
+
+<p><em style="text-align:left;line-height:.5em">This interview was originally conducted to feature in an episode of ‘From Lucky PDF TV, this is Auto Italia LIVE’, part of a five week long series of live television broadcasts held at the Auto Italia South East project space in Peckham, London.</p>
+
+<p><a href="http://www.autoitaliasoutheast.org">www.autoitaliasoutheast.org</a></em></p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>'Me Maskuline' [sic]</title>
+   <id>tag:kuboaa.herokuapp.com,2018:/?/issue-1/me-maskuline/</id>
+   <updated>2014-04-09T08:33:31+10:00</updated>
+   <link rel="alternate" type="text/html" href="http://kuboaa.herokuapp.com/?/issue-1/me-maskuline/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+            <p>A transcribed talk originally given as part of a series of artist and academic talks on masculinity during the 'me maskuline' exhibition Alex curated at King College London, first seen earlier last year at Camberwell Arts, a DIY artist-led space...</p></p>
+
+<p><cite>“This is an exciting exhibition that brings together important feminist and queer works to turn the gaze on masculinity. In doing so it asks probing questions about the nature of power and gender relations today. These are complex works that take us far beyond the usual pronouncements about masculinity being 'in crisis'."</cite></p>
+
+<p><cite><em>Rosalind Gill, Professor of Social and Cultural Analysis at Kings College London</em></cite></p>
+
+<p>The context to this coming together now was that I met Tracy Allen who runs a DIY, artist-led space in Camberwell. We talked and realised we had both taken images of men. And decided to show our work together and from there I wanted to also show what other artists were doing with men and masculinity, how they were putting it on the spot or just looking it up and down. Thanks to the other artists for getting involved in something so DIY and unfunded. My little hair-brained scheme. I’m not a curator.</p>
+
+<p>Then Professor Rosalind Gill agreed to give a talk as part of that. She saw that the exhibition could fit well with this festival even when it felt a bit unclear to me. I was surprised myself when I started looking into how it related to the theme of this festival on memory and violence. I was surprised at how much violence figured in the exhibition &#38;mdash; either because the artists themselves were accused of violence towards men (Rosie Gunn and Alexis Hunter) or because there was a threat or possibility of violence from the defenders of masculinity (as in Oreet Ashery’s work and my own).</p>
+
+<p>In fact underlying the whole exhibition is the question of whether masculinity can be challenged, put on the spot, prodded and poked without violence.</p>
+
+<p>I think a lot of artists shy away from staring down masculinity &#38;mdash; or even just assessing it. Maybe that’s because of that threat of attracting violence and the fear of being seen as violent. Focusing on masculinity can feel like putting your body on the line in a very real sense. It’s far easier to turn a critical and voyeuristic gaze on the marginal, and those less powerful than ourselves. After all, the powerful can always take their revenge and they’re in a better place to take it. Jeremiah Shabazz said: “every black person knew one thing about the white man &#38;mdash; if you said something he didn’t like, he was going to get you, and fear of the white man’s retribution was greater than any fear of God.”</p>
+
+<p>Masculinity can mean so many things. It can be enjoyed, and embodied too. And I think much of that comes across here but lets not blank out the uneasy feelings.</p>
+
+<p>When I think about masculinity &#38;mdash; aspects of it &#38;mdash; I often feel powerless, stuck and tired. The aspects I’m talking about are the vying for dominance, the act of masculinity as superior that so often leads to violence. Should I confront it? Should I complicate my view of it and hope it dissolves in front of my eyes? Or should I tease it? Stare it down? Should I act aggressively or peaceably? Or turn away from it because it’s tiring to keep your head there for long.</p>
+
+<p>I do think something has to be done about masculinity and its reliance on domination and violence. And I do think the finger needs pointing - especially at white, hetero, middle-class masculinity: mainly because that type of masculinity has spent so much time persuading us all that everything and everyone is inferior and because it’s persuaded so many of us that everyone and everything is to blame for society being somehow ‘wrong’ - except itself. Because it puts itself in the position of the judge. This type of masculinity needs to prop itself up and it does that through creating hierarchies in capitalism, neo-colonialism and sexism. It’s the guardian of a culture that only has a 6.5% conviction rate for reported rapes. And a police and prison system that does nothing to bring about social change. Because real social change would mean scrapping those institutions of domination and bullying.</p>
+
+<p>I guess this exhibition was about finding out what other people I respected were doing about masculinity. All the work in the exhibition interested me because it’s about experimenting with different ways of interacting with masculinity - teasing it, confronting it, complicating it often with tenderness and vulnerability on both sides.</p>
+
+<p>It seems to me that the artists here are willing to act as a catalyst to change and willing to be a witness to the possibility of violence. All the artists in one way or another face up to masculinity. They’re all risking the boundaries. And that brings us closer to meaningful possibilities for change.</p>
+
+<p>My own work was about putting myself into positions where I could experiment and think about the ways I was interacting with masculinity and some of the reasons for my behaviour. I put myself in positions where I most wanted to retreat into passivity and acquiescence. A few of the images from the project are on the wall over there. In that project I approached men in public spaces &#38;mdash; mainly in London’s Square Mile but also in Liverpool, outside ‘Gentlemen’s Venues’, pubs, offices and cafes. I approached them confrontationally in that I wasn’t asking for permission for those initial street images and I was trying not to be appeasing. I then entered into a negotiation with them to get them into a private space like an alleyway, car park or back at  mine or theirs. Once there I’d ask them to remove items of clothes. A coat and jumper, shirt, then t-shirt, perhaps trousers and boxers. The project was a process. I started with acquaintances and explained the project in some detail. I didn’t think that was getting me far enough in finding out why the power dynamics with men made it so difficult to objectify them. I needed to move onto strangers.</p>
+
+<p>It’s not a headspace I much liked being in. The threat of violence was very much in my head when I first thought about doing the project. The idea of the threat loomed much larger than anything that actually happened. But although I’ve lived my fair share risky behaviour without violent repercussions or feelings of fear, this project did ignite fear in me as well as in family, friends, acquaintances and strangers. There was a tightening box of safety telling me not to behave in certain ways, not to do certain things, not to aggravate the situation with men. And yet the biggest difference I can see between this and my previous risky behaviours was that I was not going along with what men wanted. The process forced head under surface and woke me up. bell hooks in ‘Feminist Theory from Margin to Center’ said: “the world we have intimately know. The world in which we feel safe (even if such feelings are based on illusions) must be radically changed.” And I had felt safe and I was beginning to see it as an illusion.</p>
+
+<p>My experiences were thankfully fairly mundane and often very human. Sometimes filled with tenderness and vulnerability on both sides. Nonetheless between each man I photographed there were days when I just walked the streets without lifting my camera up. Every time was a struggle with myself. The heaviness of my interactions with men and what I might come up against was a bit paralysing. I wasn’t a photographer doing this project. I’d just given up a ten-year safe career. My camera was a way of testing the boundaries with men and experimenting with my interactions with them. To then also keep a record of the moment. To maybe get to a place of objectivity. To rearrange my own thinking. But rearranging myself isn’t enough. And me being critical of masculinity isn’t enough either. It’s important that masculinity looks at itself critically, psychologically, emotionally. How does masculinity relate to and experience power in patriarchy? Is this violent posturing for superiority going to go on forever?</p>
+
+<p>Doing this exhibition as part of this festival on violence forced my head back under the surface. Back into the headspace of masculinity and violence. It made me think more about what I’m doing with my own work and how I’m relating to masculinity right now. It’s forced me to come to terms with the reality that I’ve been avoiding those aspects of masculinity.</p>
+
+<p>Thinking about this talk has felt really heavy because violence isn’t something to play around with and just discuss. How do we have discussion that isn’t just a vent, a safety valve. A way of avoiding the core and diffusing the situation. What are we actually doing here? How can we manage to be fully human rather than just thinking about interesting ideas. Because that’s keeping a distance and erasing the realities and enormity of the stress and self-hate and the destructiveness of violence.</p>
+
+<p>I’ve not provided new thoughts or angles here. This talk has to be old hat because we haven’t moved on. This is IT. Can we find ways of letting it get to us in a way that doesn’t feel like a diversion or an avoidance tactic?</p>
+
+<p></div></p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+
+  <entry>
+   <title></title>
+   <id>tag:kuboaa.herokuapp.com,2018:/?/about/</id>
+   <updated>2014-04-09T08:33:31+10:00</updated>
+   <link rel="alternate" type="text/html" href="http://kuboaa.herokuapp.com/?/about/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>Get in touch</title>
+   <id>tag:kuboaa.herokuapp.com,2018:/?/talk/</id>
+   <updated>2014-04-09T08:33:31+10:00</updated>
+   <link rel="alternate" type="text/html" href="http://kuboaa.herokuapp.com/?/talk/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+      </div>
+   </content>
+</entry>
+  
+
+
+</feed>
+<!-- Stacey(2.2.2). -->

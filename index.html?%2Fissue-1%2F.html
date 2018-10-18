@@ -1,0 +1,116 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+  "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+  <head>
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8">
+    <title>issue 1 content</title>
+    <link rel="alternate" type="application/atom+xml" href="index.html%3F%252Ffeed%252F">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+    <link rel="stylesheet" href="public/docs/css/screen.css" type="text/css" media="screen"> 
+	<style type="text/css">
+	.projects li{
+		margin:0 0 2em 0;
+		list-style-type:none;
+	}
+	.projects li a{
+		padding:.2em;
+	    text-decoration:none;
+	    font-size:1.6em;
+	    font-style:oblique;
+	    color:#111;
+	    line-height:1em
+	}
+	.projects li a:hover{background:#faec84}
+	
+	</style>
+  </head>
+  <body>
+	
+	<a href="index.html"><h1 style="color:purple">Contents</h1></a>
+	
+	  <ul class="projects">
+              <li><a href="index.html%3F%252Fissue-1%252Feditorial%252F.html">When beginning to write...</a><cite>Robert Carter</cite></li>
+              <li><a href="index.html%3F%252Fissue-1%252Fpea%252F.html">Pea</a><cite>Lorenzo Tebano</cite></li>
+              <li><a href="index.html%3F%252Fissue-1%252Fporn-in-outer-space-video%252F.html">Porn in outer space (video)</a><cite>Matthew Reed</cite></li>
+              <li><a href="index.html%3F%252Fissue-1%252Fporn-in-outer-space%252F.html">Porn in outer space</a><cite>Matthew Reed</cite></li>
+              <li><a href="index.html%3F%252Fissue-1%252Ffaux-amis%252F.html">Faux Amis</a><cite>Adam Gamble</cite></li>
+              <li><a href="index.html%3F%252Fissue-1%252Fmestopremeny%252F.html">What we have created in is black and white, What we propose for the future is in green</a><cite>Mestopremeny</cite></li>
+              <li><a href="index.html%3F%252Fissue-1%252Finterview-david-graeber%252F.html">An interview with David Graeber</a><cite>Richard Houguez and Lewis Bassett</cite></li>
+              <li><a href="index.html%3F%252Fissue-1%252Fme-maskuline%252F.html">'Me Maskuline' [sic]</a><cite>Alex Brew</cite></li>
+    
+  </ul>
+
+	
+	<h3 style="color:purple"><em>Issue 1 featuring work by Nathaniel Cary <small style="color:#777">(top left image)</small></em></h3>
+	
+	<img src="content/5.issue-1/1.jpg" style="z-index:-300;position: absolute; right: 3%; top: 6%;-moz-transform:rotate(35deg);-webkit-transform:rotate(45deg);" height="300" width="400">
+	<img src="content/5.issue-1/0.jpg" style="z-index:-300;position: absolute; left: 5%; top: 12%;-moz-transform:rotate(-15deg);-webkit-transform:rotate(-35deg);" height="300" width="400">
+	
+	
+	</div>
+	
+	<script type="text/javascript">
+	
+	$('#noflash img:first-child').load(function(){
+		$('#flash').children('img').each(function(){
+			
+			var l = $(this).attr('width'); // this only works because their are two images of equal width
+			var r = $(this).attr('height') /2;
+			
+			
+			$('#flash').css('position', 'absolute');
+			$('#flash').css('top', '50%');
+			$('#flash').css('left', '50%');
+			$('#flash').css('margin-left', -l+'px');
+			$('#flash').css('margin-top', -r+'px');
+			$('#flash').css('z-index', 2000);
+			
+			$('#flash').show();
+			
+		});
+		
+		var fla=window.setInterval(function(){
+			$('#flash').toggle();
+			
+		}, 350);
+		
+		window.setTimeout(function() {
+		    
+			window.clearInterval(fla);
+			$('#flash').show();
+			
+			$('#flash').css('z-index', -320000)
+			
+			$('#flash').fadeOut(2000);
+			
+		}, 3000);
+		
+		
+		$('#flash').click(function(){
+			window.clearInterval(fla);
+			$(this).hide();
+		});
+	});
+	
+	</script>
+	
+	<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-16427253-5']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+
+	
+  </body>
+</html>
+
+<!-- Stacey(2.2.2). -->

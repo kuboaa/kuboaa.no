@@ -1,0 +1,192 @@
+
+<html lang="en">
+<head>
+	<title>kuboaa</title><!--
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+	-->
+	<script type="text/javascript" src="public/docs/js/jquery-1.3.2.js"></script>
+	
+	<script src="http://cloud.github.com/downloads/malsup/cycle/jquery.cycle.all.2.72.js"></script>
+	<style type="text/css">
+		body{
+			background:#fff; /*FBF3BE*/
+			margin:2em 0 0 2em;
+		}
+		a{text-decoration:none;font-size:1.5em;text-align:center;}
+		
+		img a,a img,img{border:0;}
+		
+		img#logo{float:left;width:300px;}
+		
+		ol#menu{}
+		
+		ol#menu li{
+			font-family:Verdana;
+			display:block;
+			float:left;
+			width:100px;
+			margin:0 0 10px 30px;
+		}
+		
+		ol#menu li a{font-weight:bold;font-style:oblique;display:block;font-family:verdana;color:#999;text-decoration:none;padding:5px;}
+			ol#menu li a:hover,ol#menu li a.active{color:blue;text-shadow: orange -2px -2px 0;}
+		
+		br.clr{clear:both;}
+		
+		div#content{
+			font-family:Arial, Helvetica;
+			width:98%;
+			margin:0 auto;
+			text-align:left;
+			font-size:1.2em;
+		}
+		
+		h2{font-size:1.9em;font-style:normal;color:#333}
+		
+		ol#menu li:last-child{display:none;color:#CCC;}
+		
+		#media img{padding:.6em;}
+
+		/* fix for netbooks */
+
+		@media only screen and (max-width: 1023px) {
+			ol#menu li a{
+				font-size:14px
+			}
+		}
+		
+	</style>
+	<script type="text/javascript">
+
+	$(document).ready(function(){
+		
+		
+		var i=0;
+		var mhtml=[];
+		
+		$('#media').children().each(function(){
+			
+			/* code for a triptych 
+			if(i % 6==0){
+				mhtml.push('</div>');
+			}
+			
+			if(i == 0 || i % 6==0){
+				mhtml.push('<div id="image">');
+			}
+			
+			new_img='<a href="http://kuboaa.herokuapp.com/'+$(this).attr('src')+'"><img src="http://kuboaa.herokuapp.com/'+$(this).attr('src')+'" width="'+$(this).attr('width')+'"  height="'+$(this).attr('height')+'"></img></a>';
+			
+			mhtml.push(new_img);
+			
+			++i;*/
+			
+			new_img='<a href="http://kuboaa.herokuapp.com/'+$(this).attr('src')+'"><img src="http://kuboaa.herokuapp.com/'+$(this).attr('src')+'" width="'+$(this).attr('width')+'"  height="'+$(this).attr('height')+'"></img></a>';
+			
+			mhtml.push(new_img);
+			
+		});
+		
+		var m=mhtml.join('');
+		$('#media').html(m);
+		
+		
+		
+		$.fn.cycle.transitions.instant = function($cont, $slides, opts) {
+			var css = { top: 0, left: 0 }
+			opts.fxFn = function(curr,next,opts,after){
+				$.fn.cycle.commonReset(curr,next,opts,after);
+				$([curr,next]).css(css);
+				$(next).show();
+				$(curr).hide();
+				after();
+			};
+		}
+		
+		// run jquery cycle now DOM is restructured i.e. <div class="image">{3}.jpg</div>
+		
+		$('#media').cycle({
+			fx:'instant',
+			timeout:0,
+			next:'#next'
+		});
+		
+	});
+		
+	</script>
+</head>
+<body>
+
+	<a href="index.html"><img id="logo" src="public/images/kub.png" style="border:2px solid purple"></img></a> <ol id="menu">
+	<li id="mA"><a href="index.html%3F%252Fissue-1%252F.html">issue 1</a></li>
+	<li id="mB"><a href="index.html%3F%252Fpea%252F.html">pea</a></li>
+	<li id="mD"><a href="index.html%3F%252Flaunch-party.html">launch<br />party</a></li>
+	<li id="mF"><a href="index.html%3F%252Fissue-2.html">issue 2</a></li>
+        <li id="mH"><a href="index.html%3F%252Fissue-3.html">issue 3</a></li>
+        <li id="mI"><a href="index.html%3F%252Fabout%252F.html">about</a></li>
+        <li id="mG">&copy; kuboaa 2011.</li>
+</ol>
+
+	
+	<br class="clr" />
+	
+	<div id="content">
+		
+		
+		<div id="media">
+
+</div>
+
+		
+		<h2>Issue 3</h2>
+		<p><div style="float: left; font-size: 80%">
+<p>Robert Carter<br /><em>Editorial</em></p>
+
+<p>Michael Redmond<br /><em>Letter from Rob to Mike</em><br />(Right cover image)</p>
+
+<p>Tim Ivison & Julia Tcharfas<br /><em>Simplify your life</em></p>
+
+<p>marie and dmt</p>
+
+<p>LAF Tebano<br /><em>The problem with leisure</em></p>
+
+<p>Nathaniel Cary<br /><em>Title page of Epiphany, edited by Nathaniel Cary</em></p>
+
+<p>Michael Redmond<br /><em>Letter from Mike to Rob</em></p>
+</div>
+
+<p><img src="public/images/issue3cover.jpg" style="margin-left: 8px; height: 700px" /></p>
+</p>
+	</div>
+	
+	<script type="text/javascript">
+
+	$(document).ready(function(){
+		
+		var curi="./"+window.location.search;
+		$('#menu').children('li').children('a').each(function(){
+			($(this).attr('href') == curi) ? $(this).addClass('active') : $(this).removeClass('active');
+		});
+		
+	});
+	
+	</script>
+	<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-16427253-5']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+
+</body>
+</html>
+
+<!-- Stacey(2.2.2). -->
