@@ -1,8 +1,8 @@
-title: Adam Gamble's Long Sunday Run
-email: adam.gamble@pm.me
-author: Adam Gamble
+title: Kuboaa
+email: noreply@kuboaa.no
+author: Kuboaa
 baseurl: "/" # the subpath of your site, e.g. /blog/
-url: "https://long.sunday.run"
+url: "https://kuboaa.no"
 timezone: Europe/London
 exclude: ["vendor", "*.nix", ".git", "_site"]
 show_drafts: null
