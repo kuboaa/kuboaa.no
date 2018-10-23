@@ -1,30 +1,139 @@
-<!doctype html>
-<html class="no-js">
+<html lang="en">
 <head>
-  <meta charset="utf-8">
-  <meta http-equiv="x-ua-compatible" content="ie=edge">
-  <title>{{ title }}</title>
-  <link rel="stylesheet" href="/css/normalize.css" />
-  <meta name="author" content="{{ site.author }}">
-  <meta name="description" content="{{ description }}">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>kuboaa</title><!--
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+	-->
+	<script type="text/javascript" src="public/docs/js/jquery-1.3.2.js"></script>
+	
+	<script src="http://cloud.github.com/downloads/malsup/cycle/jquery.cycle.all.2.72.js"></script>
+	<style type="text/css">
+		body{
+			background:#fff; /*FBF3BE*/
+			margin:2em 0 0 2em;
+		}
+		a{text-decoration:none;font-size:1.5em;text-align:center;}
+		
+		img a,a img,img{border:0;}
+		
+		img#logo{float:left;width:300px;}
+		
+		ol#menu{}
+		
+		ol#menu li{
+			font-family:Verdana;
+			display:block;
+			float:left;
+			width:100px;
+			margin:0 0 10px 30px;
+		}
+		
+		ol#menu li a{font-weight:bold;font-style:oblique;display:block;font-family:verdana;color:#999;text-decoration:none;padding:5px;}
+			ol#menu li a:hover,ol#menu li a.active{color:blue;text-shadow: orange -2px -2px 0;}
+		
+		br.clr{clear:both;}
+		
+		div#content{
+			font-family:Arial, Helvetica;
+			width:98%;
+			margin:0 auto;
+			text-align:left;
+			font-size:1.2em;
+		}
+		
+		h2{font-size:1.9em;font-style:normal;color:#333}
+		
+		ol#menu li:last-child{display:none;color:#CCC;}
+		
+		#media img{padding:.6em;}
+		
+	</style>
+	<script type="text/javascript">
+
+	$(document).ready(function(){
+		
+		//preformat media to triptych
+		
+		var i=0;
+		var mhtml=[];
+		
+		$('#media').children().each(function(){
+			
+			if(i % 6==0){
+				mhtml.push('</div>');
+			}
+			
+			if(i == 0 || i % 6==0){
+				mhtml.push('<div id="image">');
+			}
+			
+			new_img='<a href="http://kuboaa.herokuapp.com/'+$(this).attr('src')+'"><img src="http://kuboaa.herokuapp.com/'+$(this).attr('src')+'" width="'+$(this).attr('width')+'"  height="'+$(this).attr('height')+'"></img></a>';
+			
+			mhtml.push(new_img);
+			
+			++i;
+			
+			
+		});
+		
+		var m=mhtml.join('');
+		$('#media').html(m);
+		
+		// run jquery cycle now DOM is restructured i.e. <div class="image">{3}.jpg</div>
+		
+		$('#media').cycle({
+			fx:"scrollRight",
+			timeout:0,
+			next:'#next'
+		});
+	});
+		
+	</script>
 </head>
 <body>
-<!-- begin page content -->
-{{ content }}
-<!-- end page content -->
-<!-- begin deferred styles -->
-<!-- https://developers.google.com/speed/docs/insights/OptimizeCSSDelivery -->
-<noscript id="deferred-styles">
-{% for u in page.lazy-css-loads %}<link rel="stylesheet" href="{{ u }}">{% endfor %}
-<!-- add more lazy styles here e.g. font awesome -->
-</noscript>
-<script type="text/javascript">
-{% include deferredStyles.js %}
+
+	<a href="/"><img id="logo" src="/public/images/kub.png" style="border:2px solid purple"></img></a> <ol id="menu">
+	<li id="mA"><a href="/issue-1">issue 1</a></li>
+	<li id="mB"><a href="/pea.html">pea</a></li>
+	<li id="mD"><a href="/launch-party.html">launch<br />party</a></li>
+	<li id="mF"><a href="/issue-2.html">issue 2</a></li>
+        <li id="mH"><a href="/issue-3.html">issue 3</a></li>
+        <li id="mI"><a href="/about.html">about</a></li>
+        <li id="mG">&copy; kuboaa 2011.</li>
+</ol>
+
+	
+	<br class="clr" />
+	
+	<div id="content">
+	  {{ content }}
+	</div>
+
+	<script type="text/javascript">
+
+	$(document).ready(function(){
+		
+		var curi="./"+window.location.search;
+		$('#menu').children('li').children('a').each(function(){
+			($(this).attr('href') == curi) ? $(this).addClass('active') : $(this).removeClass('active');
+		});
+		
+	});
+	
+	</script>
+	<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-16427253-5']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
 </script>
-<!-- end deferred styles -->
-{% if jekyll.environment == "production" %}
-<!-- production scripts here e.g. analytics tracker -->
-{% endif %}
+
+
 </body>
 </html>
