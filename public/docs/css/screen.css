@@ -1,0 +1,237 @@
+body{
+	text-align:center;
+	font-family:Arial;
+	background-color:#fff;
+	color:#333;
+	margin:0;
+}
+#wrapper{
+	text-align:left;
+	margin:0 auto;
+	width:700px;
+}
+
+
+
+/* css3 extras */
+
+
+.img-shadow{
+	/* css3 below */
+	-moz-box-shadow: 2px 2px 3px #333;
+	-webkit-box-shadow: 2px 2px 3px #333;
+	box-shadow: 2px 2px 3px #333;
+}
+
+/* typography */
+
+h1,h2,h3,h4{
+	font-family:Arial,Helvetica;
+	color:#111;
+}
+
+/* list structure for navigation */
+
+ul#top-nav{
+    list-style-type:none;
+	margin:0;
+}
+
+ul#top-nav > li{
+	font-family:"Courier New", mono;
+	font-size:110%;
+    padding-right:2em;
+    display:inline;
+}
+
+/* list structure for editions */
+
+div#editions{
+	text-align:left;
+}
+
+ul.edition{
+	
+	list-style-type:none;
+}
+
+li.edition-title{
+	float:left;
+	cursor:pointer;
+	font-size:120%;
+	padding:.5em .3em .65em .3em;
+}
+
+li.edition-title img{
+	border:solid 1px #ccc;
+}
+
+li.edition-title > em{ 
+	/* the date of publication */
+	color:#d4b17b;
+	display:block;
+	font-size:165%;
+	margin:0 0 1em 0;
+}
+
+/*li.edition-title:before{content:'\2193 \0020'; /* = down arrow + space */
+
+ul.entries{
+	list-style-type:none;
+	text-align:left;
+	float:right;
+	width:300px;
+}
+
+ul.entries > li:first-child{
+	margin-top:1.4em;
+}
+
+ul.entries > li{
+	padding-bottom:.2em;
+	color:#555;
+}
+
+ul.entries > li a:before{
+	content:'\00B6 \0020'; /* = paragraph symbol + space */
+	margin-top:-.9em;
+	color:#f2d891;
+}
+
+ul.entries > li a, 
+ul.entries > li a:active,
+ul.entries > li a:visited,
+ul.entries > li a:link{
+	text-decoration:none;
+	color:#B800F5;
+	padding:.2em .2em .2em .4em;
+	font-weight:bold;
+	font-size:1em;
+	/*font-variant:small-caps;*/
+	text-transform:lowercase;
+}
+
+
+ul.entries > li a:hover, ul.entries li a:hover:before{
+	color:#333;
+}
+
+ul.entries > li a.active, ul.entries > li a.active:before{
+	color:#111;
+}
+
+p.author{
+	color:#444;
+	font-size:80%;
+	padding:.2em;
+	font-family:"Courier New", courier, monospace, mono;
+}
+
+p.author:after{
+	background:#CCC;
+	width:120px;
+	content:'\0020';
+	display:block;
+	height:1px;
+}
+
+
+cite{
+    font-size:93%;
+    color:#666;
+}
+
+cite br{
+    margin-bottom:20px
+}
+
+p#footer{
+	font-size:78%;
+	color:#444;
+}
+
+br.clear{
+	clear:both;
+}
+
+p#footer em{
+	color:#888;
+}
+
+/* sidebar injection */
+
+div.sidebar{
+    float:left;
+    margin:0;
+	width:350px;
+}
+
+div.sidebar ul.edition > :first-child{
+    display:none
+}
+
+/* content */
+
+#content{
+    text-align:justify;
+    background:#fff;
+    padding:2em;
+	margin:0 10px 0 375px; /* 10px = shadow adjustment */
+	min-height:600px; /* mayb? */
+	opacity:.9;
+	border-left:solid 3px #db9448;
+	border-bottom:solid 3px #db9448;
+	border-right:solid 3px #db9448;
+	/* css3 
+	-moz-box-shadow: -5px -3px 8px 3px #D4B17B;
+	-webkit-box-shadow: -5px -3px 8px 3px #D4B17B;
+	box-shadow: -5px -3px 8px 3px #D4B17B*/
+}
+
+/* utf utils */
+
+/* utf utils */
+
+a.point{
+	text-decoration:blink;
+}
+
+.point:after{
+	content:' \261E ';
+	font-family:"Arial";
+	font-size:1.5em;
+	font-weight:normal;
+	text-decoration: blink;
+	color:#000;
+    padding:0 .2em 0 .2em;
+    margin-left:.5em;
+	opacity:.7;
+}
+
+/* fix for netbooks */
+
+@media only screen and (max-width: 1023px) {
+
+	a {
+		font-size: 0.6em;
+		line-height: 1.6em;
+	}
+	
+}
+
+/*
+@media handheld, only screen and (max-width: 767px) {
+
+	body {
+	font-size: 16px;
+	-webkit-text-size-adjust: none;
+	}
+	
+	.row, body, .container {
+	width: 100%;
+	min-width: 0;
+	margin-left: 0px;
+	margin-right: 0px;
+	padding-left: 0px;
+	padding-right: 0px;
+	}
